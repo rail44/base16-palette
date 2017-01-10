@@ -1,0 +1,18 @@
+scheme: "Palette"
+author: "rail44 (http://github.com/rail44)"
+base00: "f6f6f6"
+base01: "c6c6c6"
+base02: "a6a6a6"
+base03: "969696"
+base04: "767676"
+base05: "666666"
+base06: "464646"
+base07: "161616"
+base08: "b03b4c" # Red
+base09: "b38600" # Orange
+base0A: "87b03b" # YellowGreen
+base0B: "00b312" # Green
+base0C: "3bb09e" # Cyan
+base0D: "0048b3" # Blue
+base0E: "643bb0" # Purple
+base0F: "b300a1" # Magenta
